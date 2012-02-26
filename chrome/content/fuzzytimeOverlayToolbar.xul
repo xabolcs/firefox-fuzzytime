@@ -9,12 +9,12 @@
 			id="fuzzytime-toolbar"
 			label="Fuzzy Time"
 		>
-			<toolbarbutton id="fuzzytime-toolbar-button" 
-				class="toolbarbutton-1"
-				context="fuzzytime-contextmenu"
-			>
-				<label id="fuzzytime-button-label" value=""/>
-			</toolbarbutton>
+			<label
+				id="fuzzytime-button-label"
+				context="fuzzytime-contextmenu" 
+				value=""
+			/>
+			
 		</toolbaritem>
 	</toolbarpalette>
 

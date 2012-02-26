@@ -1,4 +1,11 @@
-#fuzzytime-toolbar,
-#fuzzytime-toolbar-button {
+#fuzzytime-toolbar {
     -moz-box-orient: horizontal;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    padding: 2px 3px;
+}
+#fuzzytime-toolbar > #fuzzytime-button-label {
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    margin: 0px 5px;
 }
